@@ -25,13 +25,9 @@ Claude Sirlin, MD<sup>5</sup>,
 John C. Morris, MD<sup>6,7</sup>,
 Tammie L.S. Benzinger, MD, PhD<sup>1,3,6</sup>,
 and Cyrus A. Raji, MD, PhD<sup>1,2</sup>,
-
-</p>
-
-<p>
 (1)Mallinckrodt Institute of Radiology, Washington University in St. Louis, St. Louis, MO, USA, (2)Washington University in St. Louis School of Medicine, St. Louis, MO, USA, (3)Washington University in St. Louis, St. Louis, MO, USA, (4)Missouri University School of Medicine, Columbia, MO, USA, (5)University of California, San Diego, La Jolla, CA, USA, (6)Knight Alzheimer Disease Research Center, St. Louis, MO, USA, (7)Washington University School of Medicine in St. Louis, St. Louis, MO, USA</p>
 
-<p style="font-weight:bold;">Background:</p>
+<b>Background:</b>
 <p>Within the research field of neurodegenerative disorders, unbiased analysis of body fat composition, particularly muscle mass, is gaining attention as a potential biological marker for refining Alzheimer’s disease risk. The objective of this study was to employ a deep learning model for fully automated and accurate segmentation of thigh tissues, potentially contributing to early Alzheimer's diagnostics. </p>
 
 <p style="font-weight:bold;">Methods:</p>
