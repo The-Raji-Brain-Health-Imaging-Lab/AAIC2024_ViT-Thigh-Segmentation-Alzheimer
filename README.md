@@ -2,7 +2,7 @@
 
 <p align="justify"> This repository includes the code and models used in our study on the application of Vision Transformers for automated thigh tissue segmentation to aid in the early diagnosis of Alzheimer's disease. This work is part of our research accepted for poster presentation at the <b><font color="purple">Alzheimer's Association International Conference (AAIC)</font></b>
  2024. </p>
-$${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$
+<span style="color:blue">some *blue* text</span>.
 -----
 
 ### Automated Thigh Tissue Segmentation by Vision Transformers: Application for Early Alzheimer's Diagnosis
