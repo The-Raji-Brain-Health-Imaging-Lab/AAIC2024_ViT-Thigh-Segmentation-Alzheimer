@@ -1,30 +1,37 @@
 ## Automated Thigh Tissue Segmentation by Vision Transformers: Application for Early Alzheimer's Diagnosis
+
 <p align="justify"> This repository includes the code and models used in our study on the application of Vision Transformers for automated thigh tissue segmentation to aid in the early diagnosis of Alzheimer's disease. This work is part of our research accepted for poster presentation at the <b> Alzheimer's Association International Conference (AAIC)</b> 2024. </p>
 
 -----
 
 ### Automated Thigh Tissue Segmentation by Vision Transformers: Application for Early Alzheimer's Diagnosis
 
-
-<b> Sara Hosseinzadeh Kasani, PhD</span><sup>1</sup>, </b>
+<sub><b> Sara Hosseinzadeh Kasani, PhD<sup>1</sup>, </b>
 Mahsa Dolatshahi, MD-MPH<sup>1</sup>,
 Mahshid Naghashzadeh, MSc<sup>1</sup>, 
 Paul K. Commean, BEE<sup>1</sup>, 
 Farzaneh Rahmani, MD-MPH<sup>1</sup>,
 Jingxia Liu, PhD<sup>2</sup>,
- LaKisha Lloyd<sup>1</sup>,
+LaKisha Lloyd<sup>1</sup>,
 Caitlyn Nguyen, BSc<sup>1</sup>,
 Nancy Hantler<sup>1</sup>,
 Abby McBee-Kemper<sup>1</sup>,
 Maria Ly, MD, PhD<sup>1</sup>,
 Gary Z Yu, MD, PhD<sup>1</sup>,
- Joseph E. Ippolito, MD, PhD<sup>3</sup>,
+Joseph E. Ippolito, MD, PhD<sup>3</sup>,
 Bettina Mittendorfer, PhD<sup>4</sup>,
 Claude Sirlin, MD<sup>5</sup>,
 John C. Morris, MD<sup>6,7</sup>,
 Tammie L.S. Benzinger, MD, PhD<sup>1,3,6</sup>,
 and Cyrus A. Raji, MD, PhD<sup>1,2</sup>,
-(1) Mallinckrodt Institute of Radiology, Washington University in St. Louis, St. Louis, MO, USA, (2) Washington University in St. Louis School of Medicine, St. Louis, MO, USA, (3) Washington University in St. Louis, St. Louis, MO, USA, (4) Missouri University School of Medicine, Columbia, MO, USA, (5) University of California, San Diego, La Jolla, CA, USA, (6) Knight Alzheimer Disease Research Center, St. Louis, MO, USA, (7) Washington University School of Medicine in St. Louis, St. Louis, MO, USA
+(1) Mallinckrodt Institute of Radiology, Washington University in St. Louis, St. Louis, MO, USA, 
+(2) Washington University in St. Louis School of Medicine, St. Louis, MO, USA, 
+(3) Washington University in St. Louis, St. Louis, MO, USA, 
+(4) Missouri University School of Medicine, Columbia, MO, USA, 
+(5) University of California, San Diego, La Jolla, CA, USA, 
+(6) Knight Alzheimer Disease Research Center, St. Louis, MO, USA, 
+(7) Washington University School of Medicine in St. Louis, St. Louis, MO, USA
+</sub>
 
 <p align="justify"><b>Background:</b> Within the research field of neurodegenerative disorders, unbiased analysis of body fat composition, particularly muscle mass, is gaining attention as a potential biological marker for refining Alzheimer’s disease risk. The objective of this study was to employ a deep learning model for fully automated and accurate segmentation of thigh tissues, potentially contributing to early Alzheimer's diagnostics. </p>
 
