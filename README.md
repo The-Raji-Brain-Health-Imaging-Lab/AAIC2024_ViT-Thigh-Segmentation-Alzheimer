@@ -6,7 +6,7 @@
 
 ### Automated Thigh Tissue Segmentation by Vision Transformers: Application for Early Alzheimer's Diagnosis
 
-<sub align="justify"><b> Sara Hosseinzadeh Kasani, PhD<sup>1</sup>, </b>
+<p align="justify"><sub><b> Sara Hosseinzadeh Kasani, PhD<sup>1</sup>, </b>
 Mahsa Dolatshahi, MD-MPH<sup>1</sup>,
 Mahshid Naghashzadeh, MSc<sup>1</sup>, 
 Paul K. Commean, BEE<sup>1</sup>, 
@@ -31,7 +31,7 @@ and Cyrus A. Raji, MD, PhD<sup>1,2</sup>,
 (5) University of California, San Diego, La Jolla, CA, USA, 
 (6) Knight Alzheimer Disease Research Center, St. Louis, MO, USA, 
 (7) Washington University School of Medicine in St. Louis, St. Louis, MO, USA
-</sub>
+</sub></p>
 
 <p align="justify"><b>Background:</b> Within the research field of neurodegenerative disorders, unbiased analysis of body fat composition, particularly muscle mass, is gaining attention as a potential biological marker for refining Alzheimer’s disease risk. The objective of this study was to employ a deep learning model for fully automated and accurate segmentation of thigh tissues, potentially contributing to early Alzheimer's diagnostics. </p>
 
