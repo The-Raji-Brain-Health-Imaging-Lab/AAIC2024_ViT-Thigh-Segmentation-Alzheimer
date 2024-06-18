@@ -6,7 +6,7 @@
 
 ### Automated Thigh Tissue Segmentation by Vision Transformers: Application for Early Alzheimer's Diagnosis
 
-<sub><b> Sara Hosseinzadeh Kasani, PhD<sup>1</sup>, </b>
+<sub align="justify"><b> Sara Hosseinzadeh Kasani, PhD<sup>1</sup>, </b>
 Mahsa Dolatshahi, MD-MPH<sup>1</sup>,
 Mahshid Naghashzadeh, MSc<sup>1</sup>, 
 Paul K. Commean, BEE<sup>1</sup>, 
